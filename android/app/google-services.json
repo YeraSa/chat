@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "324765876317",
+    "project_id": "flash-chat-b9835",
+    "storage_bucket": "flash-chat-b9835.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324765876317:android:1d08da264b30c05bc60db4",
+        "android_client_info": {
+          "package_name": "com.Yeraly.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324765876317-dksl5tb8gf3ji1241o3t4rucivhbntqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm4kgvWTdMoPsGIOFwg006BCiofJM260g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324765876317-dksl5tb8gf3ji1241o3t4rucivhbntqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
